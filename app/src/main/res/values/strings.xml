@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SplashScreen</string>
+    <string name="Dice">Roll The Dice</string>
+    <string name="BtnConfirm">Confirm</string>
 </resources>
